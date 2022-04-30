@@ -1,0 +1,17 @@
+.field {
+    margin-bottom: 20px;
+}
+.field label {
+    display: block;
+    font-weight: 700;
+    font-size: 1.5em;
+}
+.field input {
+    background-color: #fff;
+    outline: 0;
+    padding: 10px 20px;
+    width: 100%;
+    color: #222;
+    box-sizing: border-box;
+    font-size: 1rem;
+}
